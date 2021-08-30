@@ -78,12 +78,14 @@ The front-end server will start on port `3000`.
 FRONTEND
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![ANTDESIGN](https://img.shields.io/badge/AntDesign-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 BACKEND
 
-![NODE.JS](https://img.shields.io/badge/NODE.JS-black?style=flat&logo=node-dot-js&logoColor=green)
-![MONGODB](https://img.shields.io/badge/MONGODB-black?style=flat&logo=mongodb&logoColor=green)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-black?style=flat&logo=express&logoColor=yellow)
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-262629?style=for-the-badge&logo=mysql&logoColor=white)
