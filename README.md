@@ -77,7 +77,7 @@ The front-end server will start on port `3000`.
 
 FRONTEND
 
-![REACT](https://img.shields.io/badge/REACT-black?style=flat&logo=react&logoColor=cyan)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=red)
