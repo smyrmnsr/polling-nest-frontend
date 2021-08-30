@@ -75,7 +75,9 @@ The front-end server will start on port `3000`.
 
 ## Technologies Used
 
-FRONTEND
+
+Frontend
+
 
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -83,7 +85,9 @@ FRONTEND
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![ANTDESIGN](https://img.shields.io/badge/AntDesign-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
-BACKEND
+
+Backend
+
 
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
