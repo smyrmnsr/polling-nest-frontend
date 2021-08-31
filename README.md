@@ -61,18 +61,18 @@
 
 1. **Clone the application**
 
-```bash
-git clone https://github.com/smyrmnsr/polling-nest-frontend
-cd polling-nest-frontend
-```
+   ```bash
+   git clone https://github.com/smyrmnsr/polling-nest-frontend
+   cd polling-nest-frontend
+   ```
 
 2. **Then type the following command to install the dependencies and start the application**
 
-```bash
-npm install && npm start
-```
+   ```bash
+   npm install && npm start
+   ```
 
-The front-end server will start on port `3000`.
+   The front-end server will start on port `3000`.
 
 ## Technologies Used
 
