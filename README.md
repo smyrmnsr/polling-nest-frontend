@@ -59,13 +59,14 @@
 
 ## Steps to Setup the React Front end app (polling-nest-frontend)
 
-First go to the `polling-nest-frontend` folder -
+1. **Clone the application**
 
 ```bash
+git clone https://github.com/smyrmnsr/polling-nest-frontend
 cd polling-nest-frontend
 ```
 
-Then type the following command to install the dependencies and start the application -
+2. **Then type the following command to install the dependencies and start the application**
 
 ```bash
 npm install && npm start
