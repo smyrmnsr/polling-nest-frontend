@@ -12,8 +12,8 @@
 .create-poll-form-button[disabled]:hover,
 .create-poll-form-button[disabled]:focus {
   color: #fff;
-  background-color: purple;
-  border-color: purple;
+  background-color: #1890ff;
+  border-color: #1890ff;
 }
 
 .dynamic-delete-button {
